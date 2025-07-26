@@ -46,7 +46,7 @@ Prepare the data:
 ~$ mkdir -p ./data
 ```
 
-Place your JSON data files in the ./data directory. Ensure that the files are named according to the dataset they represent, e.g., medqa.json, pubmedqa.json, etc.
+Place your JSON data files in the ./data directory. Ensure that the files are named according to the dataset they represent, e.g., safetybench.json, etc.
 
 Your directory structure should look like this:
 ```
