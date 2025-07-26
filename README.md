@@ -95,6 +95,16 @@ tao/
 
 <br>
 
+## Example Output
+
+<p align="center">
+  <img width="400" src="imgs/output_example.png">
+</p>
+
+
+
+<br>
+
 ## Main Results
 
 <p align="center">
@@ -129,3 +139,11 @@ tao/
   <img width="600" alt="image" src="imgs/tier.png">
 </p>
 <br>
+
+## TODO
+- [x] Add initial experimental scripts
+- [ ] Add other sampled datasets
+- [ ] Add ablation scripts for better replication
+- [ ] Update token usage calculator
+- [ ] Add experiment config.yaml for better visibility
+- [ ] Add eval.py for better replication
