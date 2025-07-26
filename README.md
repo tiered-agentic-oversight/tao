@@ -54,6 +54,7 @@ tao/
 ├── data/
 │   ├── safetybench.json
 │   └── ... (other dataset files)
+├── run.sh
 ├── main.py
 ├── utils.py
 ├── requirements.txt
@@ -89,7 +90,7 @@ tao/
 ## Inference
 
 ```bash
-~$ python3 main.py --model {gemini-1.5-flash, gemini-2.0-flash, gemini-2.5-flash, gemini-2.5-pro, gpt-4o, o1, o3, o4-mini} --dataset {safetybench, medsafetybench, llm-red-teaming, medical-triage, mm-safetybench}
+~$ bash run.sh
 ```
 
 <br>
